@@ -1,0 +1,24 @@
+#titulo{
+    text-align: center;
+    border: 3px solid black;
+    color: blueviolet;
+}
+p{
+    border-bottom: 3px solid #000;
+    font-size: 120%;
+    
+}
+body{
+    font-style: italic;
+    background:cyan;
+}
+.footer{
+    color:white;
+}
+
+@media (min-width: 800px) and (max-width: 1000px) {
+    div{
+        background-color: blue;
+    }
+
+}
